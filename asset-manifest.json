@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moibrahem98/market_basket/static/css/main.e6bb01d6.chunk.css",
-    "main.js": "/moibrahem98/market_basket/static/js/main.b5b41855.chunk.js",
-    "main.js.map": "/moibrahem98/market_basket/static/js/main.b5b41855.chunk.js.map",
+    "main.js": "/moibrahem98/market_basket/static/js/main.98a116f0.chunk.js",
+    "main.js.map": "/moibrahem98/market_basket/static/js/main.98a116f0.chunk.js.map",
     "runtime-main.js": "/moibrahem98/market_basket/static/js/runtime-main.c6a5a2c3.js",
     "runtime-main.js.map": "/moibrahem98/market_basket/static/js/runtime-main.c6a5a2c3.js.map",
     "static/js/2.eb50a0df.chunk.js": "/moibrahem98/market_basket/static/js/2.eb50a0df.chunk.js",
     "static/js/2.eb50a0df.chunk.js.map": "/moibrahem98/market_basket/static/js/2.eb50a0df.chunk.js.map",
     "index.html": "/moibrahem98/market_basket/index.html",
-    "precache-manifest.38c8b548be97f4a851f20db6c4af7d60.js": "/moibrahem98/market_basket/precache-manifest.38c8b548be97f4a851f20db6c4af7d60.js",
+    "precache-manifest.dd1449613c3616eaa6146aab8840607f.js": "/moibrahem98/market_basket/precache-manifest.dd1449613c3616eaa6146aab8840607f.js",
     "service-worker.js": "/moibrahem98/market_basket/service-worker.js",
     "static/css/main.e6bb01d6.chunk.css.map": "/moibrahem98/market_basket/static/css/main.e6bb01d6.chunk.css.map",
     "static/js/2.eb50a0df.chunk.js.LICENSE.txt": "/moibrahem98/market_basket/static/js/2.eb50a0df.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c6a5a2c3.js",
     "static/js/2.eb50a0df.chunk.js",
     "static/css/main.e6bb01d6.chunk.css",
-    "static/js/main.b5b41855.chunk.js"
+    "static/js/main.98a116f0.chunk.js"
   ]
 }
