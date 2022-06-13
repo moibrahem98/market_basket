@@ -1,8 +1,8 @@
 {
-  "name": "grocery-bud",
+  "name": "market_basket",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/moibrahem98/grocery-bud",
+  "homepage": "https://github.com/moibrahem98/market_basket",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -10,6 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.11.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
