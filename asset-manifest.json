@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moibrahem98/grocery-bud/static/css/main.e6bb01d6.chunk.css",
+    "main.js": "/moibrahem98/grocery-bud/static/js/main.87bb0c1e.chunk.js",
+    "main.js.map": "/moibrahem98/grocery-bud/static/js/main.87bb0c1e.chunk.js.map",
+    "runtime-main.js": "/moibrahem98/grocery-bud/static/js/runtime-main.86aabf96.js",
+    "runtime-main.js.map": "/moibrahem98/grocery-bud/static/js/runtime-main.86aabf96.js.map",
+    "static/js/2.2486421f.chunk.js": "/moibrahem98/grocery-bud/static/js/2.2486421f.chunk.js",
+    "static/js/2.2486421f.chunk.js.map": "/moibrahem98/grocery-bud/static/js/2.2486421f.chunk.js.map",
+    "index.html": "/moibrahem98/grocery-bud/index.html",
+    "precache-manifest.0b65573d5e2467e915b93ddcc5c99500.js": "/moibrahem98/grocery-bud/precache-manifest.0b65573d5e2467e915b93ddcc5c99500.js",
+    "service-worker.js": "/moibrahem98/grocery-bud/service-worker.js",
+    "static/css/main.e6bb01d6.chunk.css.map": "/moibrahem98/grocery-bud/static/css/main.e6bb01d6.chunk.css.map",
+    "static/js/2.2486421f.chunk.js.LICENSE.txt": "/moibrahem98/grocery-bud/static/js/2.2486421f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86aabf96.js",
+    "static/js/2.2486421f.chunk.js",
+    "static/css/main.e6bb01d6.chunk.css",
+    "static/js/main.87bb0c1e.chunk.js"
+  ]
+}
